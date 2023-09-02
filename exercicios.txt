@@ -1,0 +1,91 @@
+Exercícios de Algoritmos
+01) Fazer um programa que imprima a média aritmética dos números 8,9 e 7. 
+A média dos números 4, 5 e 6. A soma das duas médias. A média das 
+medias.
+02) Receber um nome no teclado e imprimi-lo dez vezes.
+03) Ler um número inteiro e imprimir seu sucessor e seu antecessor.
+04) Receber um valor qualquer do teclado e imprimir esse valor com reajuste 
+de 10%.
+05) Informar três números inteiros e imprimir a média.
+06) Ler um número inteiro e imprimir seu quadrado.
+07) Informar um saldo e imprimir o saldo com reajuste de 1%
+08) Informar um preço de um produto e calcular novo preço com desconto de 
+9%
+09) Cálculo de um salário líquido de um professor. Serão fornecidos valor da 
+hora aula, numero de aulas dadas e o % de desconto do INSS. 
+10) Ler uma temperatura em graus Celsius e transformá-la em graus
+Fahrenheit.
+11) Ler um número e se for maior que 20 imprimir a metade desse número. 
+12) Ler 2 números inteiros e soma-los. Se a soma for maior que 10, mostrar o 
+resultado da soma.
+13) Ler 1 número. Se positivo, imprimir raiz quadrada senão o quadrado. 
+14) Solicitar salário, prestação. Se prestação for maior que 20% do salário, 
+imprimir: Empréstimo não pode ser concedido. Senão imprimir empréstimo 
+pode ser concedido. 
+15) Ler um número e imprimir: maior que 20, igual a 20 ou menor que 20
+16) Ler um ano de nascimento e ano atual. Imprimir a idade da pessoa. 
+17) Criar um algoritmo que leia os limites inferior e superior de um intervalo e 
+imprimir todos os números pares no intervalo aberto e seu
+18) Somatório. Suponha que os dados digitados são para um intervalo
+crescente. 
+19) Apresentar os quadrados dos números inteiros de 15 a 200.
+20) Apresentar o total da soma obtida dos cem primeiros números inteiros
+21) Apresentar todos os números divisíveis por 4 que sejam menores que 200.
+22) Elaborar um programa que efetue a leitura sucessiva de valores numéricos 
+e apresente no final o total do somatório, a média e o total de valores lidos. 
+O programa deve fazer as leituras dos valores enquanto o usuário estiver 
+fornecendo valores positivos. Ou seja, o programa deve parar quando o 
+usuário fornecer um valor negativo.
+23) Elaborar um programa que efetue a leitura de valores positivos inteiros até 
+que um valor negativo seja informado. Ao final devem ser apresentados o 
+maior e menor valore informados pelo usuário.
+24) Receber um número do teclado e informar se ele é divisível por 10, por 5, 
+por 2 ou se não é divisível por nenhum destes.
+25) Um comerciante comprou um produto e quer vendê-lo com lucro de 5% se 
+o valor da compra for menor que 20,00; caso contrário, o lucro será de 
+30%. Entrar com o valor do produto e imprimir o valor da venda.
+26) Receber do teclado, vários números e verificar se eles são ou não
+quadrados perfeitos. O programa termina quando o usuário digitar um 
+número menor ou igual a zero.
+27) Ler 2 valores e somar os dois. Caso a soma seja maior que 10, mostrar a 
+soma.
+28) Entrar com um número e imprimir a raiz quadrada do número. Caso ele 
+seja positivo. E o quadrado dele caso seja negativo.
+29) Ler um número inteiro e verificar se está compreendido entre 20 e 80. Se 
+tiver, imprimir “parabéns”, senão imprimir “chimpanzé”.
+30) Ler um número do teclado e imprimir todos os números de 1 até o número 
+lido. Imprimir o produto dos números.
+31) Ler um número e imprimir igual a 20, menor que 20, maior que 20.
+32) Informe o tipo de carro (A, B e C). Informe o percurso rodado em km e 
+calcule o consumo estimado, conforme o tipo, sendo (A=8, B=9 e C=12) 
+km/litro
+33) Escrever um programa que leia, valores inteiros, até ser lido o valor 99. 
+Quando isso acontecer o programa deverá escrever a soma e a média dos 
+valores lidos.
+34) Escrever um programa que receba vários números inteiros no teclado. E no 
+final imprimir a média dos números múltiplos de 3. Para sair digitar 0
+(zero). 
+35) Receber dois números e imprimi-los em ordem crescente. 
+36) Escrever um programa que receba vários números inteiros no teclado e no 
+final imprimir a média dos números múltiplos de 3. Para sair digitar 0
+(zero). 
+37) Ler um número do teclado e imprimir todos os números de 1 até o número 
+lido. Imprimir o produto dos números.
+38) Escrever um programa, que leia valores inteiros até ser lido o valor 99. 
+Quando isso acontecer o programa deverá escrever a soma e a média dos 
+valores lidos. 
+39) Solicitar a idade de várias pessoas e imprimir: Total de pessoas com menos 
+de 21 anos. Total de pessoas com mais de 50 anos. O programa termina 
+quando idade for = 99.
+40) Solicitar um número entre 1 e 4. Se a pessoas digitar um número
+diferente, mostrar a mensagem "entrada inválida" e solicitar o número 
+novamente. Se digitar correto mostrar o número digitado. 
+41) Solicitar um número entre 1 e 4. Se a pessoa digitar um número diferente, 
+mostrar a mensagem "entrada inválida" e solicitar o número novamente. 
+Se digitar correto mostrar o número digitado. 
+42) Fazer um programa que receba um valor n no teclado e determine o maior. 
+A condição de término do programa é quando o usuário digitar zero.
+43) Apresentar o total da soma obtida dos cem primeiros números inteiros.
+44) Receber um número e verificar se está entre 100 e 200. Se estiver na 
+faixa, imprimir: "Você digitou um número entre 100 e 200", senão estiver 
+na faixa, imprimir: "Você digitou um número fora da faixa entre100 e 200".
