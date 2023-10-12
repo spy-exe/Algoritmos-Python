@@ -39,7 +39,7 @@ for i in range(5):
     modelo = input(f"Veículo {i+1}\nNome: ")
     km = float(input("Km por litro: "))
     modelos.append(modelo)
-    consumo.append(km_por_litro)
+    consumo.append(km)
 
 # Calcula o consumo de combustível e o custo para cada carro percorrer 1000 km
 consumo_combustivel = [1000 / km for km in consumo]
