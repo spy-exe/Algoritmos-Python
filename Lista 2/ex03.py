@@ -37,7 +37,7 @@ consumo = []
 # Pede entrada para cada modelo de carro e seu consumo
 for i in range(5):
     modelo = input(f"Veículo {i+1}\nNome: ")
-    km_por_litro = float(input("Km por litro: "))
+    km = float(input("Km por litro: "))
     modelos.append(modelo)
     consumo.append(km_por_litro)
 

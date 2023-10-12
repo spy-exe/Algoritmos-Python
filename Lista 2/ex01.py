@@ -32,12 +32,12 @@ votos = { # Criando um dicionario com os sistemas operacionais - Melhor manipula
     'Unix': 0,
     'Linux': 0,
     'Netware': 0,
-    'Mac OS': 0,
+    'MacOS': 0,
     'Outro': 0
 }
 
 while True:
-    voto = int(input('Qual o melhor S.O. para uso em servidores?'))
+    voto = int(input('Qual o melhor S.O. para uso em servidores?\n=> '))
     if voto == 0: # Se o voto for = 0, encerrar programa
         break
     elif voto > 6 or voto < 0: # Se o voto for maior que 6 ou menor que 0 = Voto Invalido
@@ -69,5 +69,5 @@ print("-------------------   -----")
 print(f"Total                {total}")
 
 # S.O. vencedor da enquete
-vencedor = max(votos, key=votos.get)
-print(f"O S.O. mais votado foi o {vencedor}, com {votos[vencedor]} votos, correspondendo a {percentual:.1f}% dos votos.")
+vencedor = max(votos.items(), key=lambda x: x[1])[0]
+print(f"O S.O. mais votado foi o {vencedor}, com {votos[vencedor]} votos, correspondendo a {votos[vencedor] * 100 / total:1f}% dos votos.\n")
